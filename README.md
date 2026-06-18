@@ -59,15 +59,6 @@ Whether you're a fresh graduate or an experienced professional, AI Career Copilo
 - **Experience-Based Learning** - Learn from similar career paths and success stories
 - **Real-Time Knowledge Retrieval** - Access up-to-date career guidance and industry trends
 
-### ⚡ Real-Time AI Insights
-- **Instant Feedback** - Get immediate AI-powered analysis and suggestions
-- **Interactive Guidance** - Receive detailed explanations and improvement strategies
-- **Continuous Learning** - Access resources and recommendations for career growth
-
-### 🌐 Interactive Dashboard
-- **User-Friendly Interface** - Modern, intuitive React-based dashboard
-- **Data Visualization** - Clear charts and graphs for skill analysis
-- **Progress Tracking** - Monitor improvements and achievements over time
 
 ---
 
